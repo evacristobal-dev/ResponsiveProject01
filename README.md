@@ -7,7 +7,7 @@ A responsive art gallery website designed with a mobile-first approach, it provi
 
 ## 👀 Preview
 
-![Personal Web Portfolio Preview](./)
+![Personal Web Portfolio Preview](./layout.png)
 
 ## ✨ Features
 
